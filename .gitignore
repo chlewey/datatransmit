@@ -1,4 +1,6 @@
 
+sitecofig.*
+*.mod
 *.py[co]
 *.egg
 *.egg-info
